@@ -17,3 +17,5 @@
 
 ## 🛠 Технологии
 Python 3.8+, SQLite, JSON, CSV, ZIP, pathlib, logging, python-dotenv
+## 🧪 Тест
+Проверка работы веток и Pull Request.
