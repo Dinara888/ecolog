@@ -1,0 +1,10 @@
+*.sqlite
+*.db
+.env
+venv/
+__pycache__/
+*.pyc
+backups/
+app.log
+temp_import/
+ecolog_backup.zip
